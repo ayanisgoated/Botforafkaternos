@@ -1,0 +1,9 @@
+{
+	"ip":"GoatedSmpml.aternos.me",
+	"port": 27272,
+	"name": "GoatedSmpMl",
+	"auto-night-skip":"true",
+	"login-enabled":"true",
+	"register-cmd":"/register (ayanisnice(ayanisnice)) (type_ur_pass_here(remember_no_spaces))",
+	"login-cmd":"/login (ayanisnice)"
+}
